@@ -1,10 +1,11 @@
-# Norah Alhadyani CV
+# Placeholder Name CV
 
-This repository hosts Norah Alhadyani's CV as a static GitHub Pages site.
+This repository hosts a placeholder CV template as a static GitHub Pages site. All names,
+schools, and employers are generic placeholders.
 
 ## Live Site
 
-- Production URL: `https://shoug-alomran.github.io/Norah-Alhadyani/`
+- Production URL: `https://cv-template-example.shoug-tech.com`
 
 ## Project Structure
 
